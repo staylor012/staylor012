@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on getting a A+ certification.
+- 🌱 I’m currently learning Java, Python and C++.
+- 📫 How to reach me: taylorsg599@gmail.com
 <!--
 **staylor012/staylor012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
