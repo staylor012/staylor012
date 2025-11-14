@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on getting a A+ certification.
+- 🔭 I earrned my CompTIA A+ certification in September 2025.
+- 🔭 I’m currently working on earning a Comptia Seccurity=+ Certificate
 - 🌱 I’m currently learning Java, Python and C++.
 - 📫 How to reach me: taylorsg599@gmail.com
 <!--
